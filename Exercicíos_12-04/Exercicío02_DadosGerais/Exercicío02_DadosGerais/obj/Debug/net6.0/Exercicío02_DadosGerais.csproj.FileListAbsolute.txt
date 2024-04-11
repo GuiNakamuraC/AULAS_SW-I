@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\bin\Debug\net6.0\Exercicío02_DadosGerais.exe
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\bin\Debug\net6.0\Exercicío02_DadosGerais.deps.json
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\bin\Debug\net6.0\Exercicío02_DadosGerais.runtimeconfig.json
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\bin\Debug\net6.0\Exercicío02_DadosGerais.dll
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\bin\Debug\net6.0\Exercicío02_DadosGerais.pdb
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.dll
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\refint\Exercicío02_DadosGerais.dll
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.pdb
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\Exercicío02_DadosGerais.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Exercicíos\Exercicío02_DadosGerais\Exercicío02_DadosGerais\obj\Debug\net6.0\ref\Exercicío02_DadosGerais.dll
